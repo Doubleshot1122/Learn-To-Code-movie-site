@@ -63,3 +63,28 @@ Click on each of the links below to learn about:
   * to dynamically make changes to the site
   * what could buttons or drop-downs do to your site
   * what about changing the CSS per user, or per movie.
+
+# Additional Training:
+## Pay in person training at host location:
++ [<b>Galvanize</b> - Web Development Immersive](https://www.galvanize.com/seattle/web-development)
++ [<b>Galvanize</b> - Web Development Evenings](https://www.galvanize.com/seattle/web-development-101)
++ [<b>Galvanize</b> - Intro to Web Development Evenings](https://www.galvanize.com/seattle/web-development-foundations)
+
+## Pay online training:
++ [<b>Udemy</b> - wait for 9.99$ sales](www.udemy.com)
++ [<b>Treehouse</b> - 25$ - 49$ per month](https://teamtreehouse.com)
++ [<b>Lynda.com</b> - 20$ - 30$ per month](https://www.lynda.com)
+
+## Free online training:
++ [<b>Lynda.com</b> - with King Co library card](https://www.lynda.com/)
++ [<b>Coursera</b>](https://www.coursera.org/)
++ [<b>Khan Academy</b>](https://www.khanacademy.org)
++ [<b>Code Academy</b>](https://www.codecademy.com)
+
+## Free Resources:
++ [<b>Mozilla developer docs</b>](https://developer.mozilla.org)
++ [<b>w3schools</b>](https://www.w3schools.com)
+
+***
+
+Thanks for attending and please come back for the JavaScript class in 2 weeks.
